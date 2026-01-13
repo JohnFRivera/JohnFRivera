@@ -1,9 +1,6 @@
 <div align="center">
-  <h1>👋 Hello! I'm John Freddy Rivera Ayala</h1>
-  <p>Full Stack Development</p>
+  <img src="assets/banner.svg" alt="Banner for John Freddy Rivera" style="width: 100%; max-width: 1000px;">
 </div>
-
----
 
 ## Skills
 
