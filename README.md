@@ -2,6 +2,8 @@
   <img src="assets/banner.svg" alt="Banner for John Freddy Rivera" style="width: 100%; max-width: 1000px;">
 </div>
 
+---
+
 ## Skills
 
 #### Languages
@@ -40,6 +42,28 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## Projects
+
+### 📊 TuCartera
+
+**TuCartera** is a personal finance management application designed to provide clarity and total control over your economic life. Through a minimalist and modern interface, the app transforms raw income and expense data into actionable insights using strategic visual analytics and KPIs.
+
+#### Features
+
+- **Dark Mode:** Integrated theme switcher that toggles in real-time.
+- **Responsive:** Fully responsive interface tailored for small screens and touch devices.
+
+#### Technologies
+
+- **React 19:** Built using Hooks and Functional Components.
+- **Bootstrap 5:** Leveraging built-in components and native Dark Mode support.
+- **Chart.js:** Dynamic data visualization and interactive charts.
+- **Zustand:** Lightweight state management for handling theme preferences and global data.
+
+[🔗 View project](https://tucartera.netlify.app)
 
 ---
 
