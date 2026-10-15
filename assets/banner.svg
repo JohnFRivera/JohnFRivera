@@ -1,4 +1,6 @@
-<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">John Freddy Rivera — Full Stack Developer</title>
+  <desc id="banner-desc">Animated banner with orbiting particles and the TypeScript, React and Node.js logos.</desc>
   <rect width="800" height="300" fill="#0d1117"/>
   <style>
     .text {
